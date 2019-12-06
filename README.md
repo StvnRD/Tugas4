@@ -13,9 +13,7 @@
 ======================================
 ============== FLOWCHART ===============
 ======================================
-
-![Floechart Tugas 4](https://user-images.githubusercontent.com/56438848/70247950-ca0ec200-17ac-11ea-847a-9a29e8b425a8.PNG)
-
+![Flowchart 4](https://user-images.githubusercontent.com/56438848/70339969-6eaf0380-1882-11ea-9720-95c4fa37f009.PNG)
 - Perintah while akan meminta program mengulang terus menerus sampai ada perintah untuk berhenti. Tetapi bila tidak ada perintah untuk berhenti maka program akan mengulang terus menerus.
 
 - Dan disini saya memakai perintah Y (untuk menambah data) dan T (untuk berhenti dan otomatis menampilkan data).
